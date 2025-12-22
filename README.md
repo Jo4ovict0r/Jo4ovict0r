@@ -19,7 +19,9 @@ Tenho 16 anos e atualmente estou cursando 'Desenvolvimento de Sistemas'.
     />
   </a>
 </p>
+
 ---
+
 ### 🤖 Areas de estudo
 <img 
     align="left" 
