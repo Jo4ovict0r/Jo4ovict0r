@@ -3,6 +3,22 @@
 **Futuro: **`FullStack`** e **`Desenvolvedor Python`****
 
 Tenho 16 anos e atualmente estou cursando 'Desenvolvimento de Sistemas'.
+<p align="left">
+  <a href="https://www.youtube.com/@Jo4ov1" target="_blank">
+    <img 
+      alt="YouTube" 
+      title="Meu canal no YouTube"
+      src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"
+    />
+  </a>
+<a href="https://www.instagram.com/joaov.dsantos/" target="_blank">
+    <img 
+      alt="Instagram"
+      title="Meu Instagram"
+      src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
+    />
+  </a>
+</p>
 ---
 ### 🤖 Areas de estudo
 <img 
