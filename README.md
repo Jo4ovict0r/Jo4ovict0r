@@ -4,7 +4,7 @@
 
 Tenho 16 anos e atualmente estou cursando 'Desenvolvimento de Sistemas'.
 <p align="left">
-  <a href="www.linkedin.com/in/joão-victor-0407392b8" target="_blank">
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-0407392b8/" target="_blank">
     <img 
       alt="Linkedin" 
       title="Meu Linkedin"
