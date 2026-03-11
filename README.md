@@ -4,20 +4,20 @@
 
 Tenho 16 anos e atualmente estou cursando 'Desenvolvimento de Sistemas'.
 <p align="left">
-  <a href="https://www.youtube.com/@Jo4ov1" target="_blank">
+  <a href="www.linkedin.com/in/joão-victor-0407392b8" target="_blank">
     <img 
-      alt="YouTube" 
-      title="Meu canal no YouTube"
-      src="https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&style=for-the-badge"
+      alt="Linkedin" 
+      title="Meu Linkedin"
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-<a href="https://www.instagram.com/joaov.dsantos/" target="_blank">
-    <img 
-      alt="Instagram"
-      title="Meu Instagram"
-      src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
-    />
-  </a>
+<a href="mailto:joaovictor180611@gmail.com" target="_blank">
+  <img 
+    alt="Gmail"
+    title="Meu email"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+  />
+</a>
 </p>
 
 ---
